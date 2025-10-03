@@ -80,6 +80,7 @@ h1:hover{
     display: flex;
     padding: 30px;
     gap:20px;
+    flex-wrap: wrap;
 }
 div h1{
     /* border: 2px solid black; */
